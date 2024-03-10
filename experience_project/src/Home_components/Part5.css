@@ -1,0 +1,38 @@
+.part5_main{
+    margin-top: 5rem;
+}
+.part5_vedio{
+    display: flex;
+    width: 90%;
+    margin: auto;
+    height: 15rem;
+  margin-top: 5rem;
+    /* border:  1px solid red; */
+    justify-content: space-around;
+}
+.part5_vedio>div{
+    width: 30rem;
+    /* border: 1px solid blue; */
+}
+
+.secont_vedio{
+    width: 23rem;
+    height: 14rem;
+    /* border: 1px solid blue; */
+    border-radius: 10px;
+    /* margin-top: 1rem; */
+    margin-left: 5rem;
+    background-color: rgb(177,168,215);
+}
+.sec_vedio_img{
+    width: 23rem;
+    height: 14rem;
+    opacity: 1;
+    /* margin-top: 1rem; */
+    position: absolute;
+}
+.icon_vedio{
+    position: relative;
+    margin-left: 8rem;
+    margin-top: 5rem;
+}

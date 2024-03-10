@@ -1,0 +1,83 @@
+/* body{ */
+    /* background-image: url("C:\Users\Admin\Desktop\learning_erperience\experience_project\src\assets\woman-in-blue-crew-neck-shirt-using-black-laptop-computer-3994051.png"); */
+    /* overflow: hidden; */
+    /* background-repeat: no-repeat; */
+    /* background-color: rgb(77,63,130); */
+    /* height: 60%; */
+    /* background-size: 100% 40rem; */
+    
+/* } */
+/* #cont{
+    height: 100%;
+    width: 100%;
+    position: relative;
+    border: 1px solid black;
+}
+.gradiant{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    opacity: 0.5px;
+    background-image: linear-gradient(to top ,blue);
+} */
+.baground{
+    
+    width:100%;
+    height:30rem;
+    position:absolute;
+}
+#main{
+    width: 100%;
+    height: 4rem;
+    /* border:  1px solid red; */
+     position: relative;
+   /* background-color: rgb(77,63,130); */
+    display: flex;
+    
+    padding-top: .7rem;
+    color: white;
+}
+.img_logo{
+    width: 10rem;
+    height: 3rem;
+    margin-left: 6rem;
+}
+.home{
+    margin-left: 28rem;
+    width: 3rem;
+    height: 2rem;
+    padding: auto;
+    /* border: 1px solid black; */
+    padding-top: 1rem;
+}
+.home:hover{
+    font-size: large;
+    color: white;
+}
+.services,.why,.our_goal{
+    margin-left: 3rem;
+    padding-top: 1rem;
+    width: 5rem;
+    height: 2rem;
+}
+.services:hover{
+    font-size: large;
+}
+.why:hover{
+    font-size: large;
+}
+.our_goal:hover{
+    font-size: large;
+}
+.Contact_us{
+    width: 6rem;
+    height: 2rem;
+    margin-top: .6rem;
+    border-radius: 30px;
+    color:black;
+    background-color: yellow;
+    border: none;
+}
+

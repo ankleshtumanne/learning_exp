@@ -1,0 +1,14 @@
+.part_7_main{
+    display: flex;
+    width: 80%;
+    height: 5rem;
+    /* border: 1px solid red; */
+    margin: auto;
+    justify-content: space-around;
+    margin-top: 5rem;
+}
+
+.logo{
+    width: 3rem;
+    height: 3rem;
+}
